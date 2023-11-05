@@ -23,7 +23,8 @@
     margin-right: auto;
     margin-top: 2em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    // padding: 0 1em 2em;
+    padding: 0 1em .5em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -83,4 +84,23 @@
       white-space: nowrap;
     }
   }
+}
+
+
+// footer modified
+.footer-copyright-front {
+  font-size: 1.2em;
+  font-family: $global-font-family;
+  display: inline-block;
+}
+
+.footer-copyright-end {
+  font-size: $type-size-7;
+  font-family: $global-font-family;
+  display: inline-block;
+}
+
+.footer-email {
+  font-size: .8em;
+  letter-spacing: 2px;
 }
