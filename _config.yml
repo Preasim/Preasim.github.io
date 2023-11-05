@@ -111,7 +111,7 @@ author:
   avatar           : "https://user-images.githubusercontent.com/77485397/208778372-265f30cd-1f78-47c3-a48c-e58db2c14d12.png"
   bio              : "데므의 작은 블로그"
   location         : "Republic of Korea"
-  # email            : "preasim.kr@gmail.com"
+  email            : "preasim.kr@gmail.com"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
@@ -139,7 +139,7 @@ footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
-      url: preasim.kr@gmail.com
+      # url: preasim.kr@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: 
+      # url: 
 
 
 # Reading Files
