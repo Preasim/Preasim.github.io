@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Demuu Blog"
+title                    : "Wicked Blog"
 title_separator          : "|"
 subtitle                 : #"The world of Demuu" # site tagline that appears below site title in masthead
-name                     : "Demuu"
-description              : "데므의 작은 블로그"
+name                     : "Wicked"
+description              : "작은 블로그"
 url                      : "https://Preasim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Preasim/blog-comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Demuu"
+  name             : "Wicked"
   avatar           : "https://user-images.githubusercontent.com/77485397/208778372-265f30cd-1f78-47c3-a48c-e58db2c14d12.png"
-  bio              : "데므의 작은 블로그"
+  bio              : "작은 블로그"
   location         : "Republic of Korea"
   email            : "preasim.kr@gmail.com"
   links:
