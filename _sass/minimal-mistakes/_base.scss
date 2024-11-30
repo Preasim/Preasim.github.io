@@ -2,6 +2,53 @@
    BASE ELEMENTS
    ========================================================================== */
 
+@font-face {
+  font-family: 'Nanum';
+  src: local("NanumSquareEB"),
+  url(../../fonts/title/NanumSquareEB.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'NanumNeo';
+  src: local("NanumSquareNeo-bRg"),
+  url(../../fonts/NaverNanumSquareNeo/NanumSquareNeo-bRg.woff) format("woff");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'NanumNeo';
+  src: local("NanumSquareNeo-dEb"),
+  url(../../fonts/NaverNanumSquareNeo/NanumSquareNeo-dEb.woff) format("woff");
+  font-weight: 700;
+}
+
+body {
+  font-family: 'NanumNeo';
+}
+
+h1,
+h2,
+h3,
+h4,
+button {
+  font-family: 'Nanum';
+}
+
+p,
+a,
+div,
+span,
+h5,
+input,
+textarea,
+select,
+ul,
+li {
+  font-family: 'NanumNeo';
+}
+
+
+
 html {
   /* sticky footer fix */
   position: relative;
@@ -12,7 +59,7 @@ body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: $global-font-family;
+  // font-family: $global-font-family;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -29,7 +76,7 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
+  // font-family: $header-font-family;
   font-weight: bold;
 }
 

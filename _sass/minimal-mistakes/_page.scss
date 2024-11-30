@@ -170,7 +170,7 @@ body {
 }
 
 .page__lead {
-  font-family: $global-font-family;
+  // font-family: $global-font-family;
   font-size: $type-size-4;
 }
 
@@ -248,13 +248,13 @@ body {
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
+    // font-family: $sans-serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
+    // font-family: $sans-serif;
     font-size: $type-size-6;
   }
 
@@ -339,7 +339,7 @@ body {
   margin: 0 auto;
   padding: 2px 5px;
   color: #fff;
-  font-family: $caption-font-family;
+  // font-family: $caption-font-family;
   font-size: $type-size-7;
   background: #000;
   text-align: right;
@@ -393,7 +393,7 @@ body {
 .page__meta {
   margin-top: 2em;
   color: $muted-text-color;
-  font-family: $sans-serif;
+  // font-family: $sans-serif;
   font-size: $type-size-6;
 
   p {
@@ -1578,7 +1578,7 @@ body {
 }
 #binaryContainer section h1 {
   font-size: 4rem;
-  font-family: Roboto, sans-serif;
+  // font-family: Roboto, sans-serif;
   font-style: italic;
   color: #FFCC00;
   letter-spacing: 0.025em;
@@ -1617,7 +1617,7 @@ body {
   display: block;
   line-height: 32px;
   box-sizing: border-box;
-  font-family: Menlo, Andale Mono, monspace;
+  // font-family: Menlo, Andale Mono, monspace;
   padding: 8px 0.5rem;
   text-align: center;
   transition: color 100ms ease-in-out;
@@ -1661,7 +1661,7 @@ body {
   font-size: 0.8em;
   background: #313131;
   border: 2px solid #3e3e3e;
-  font-family: Menlo, Andale Mono, monspace;
+  // font-family: Menlo, Andale Mono, monspace;
   box-sizing: border-box;
   transition: right 200ms ease-in-out;
 }

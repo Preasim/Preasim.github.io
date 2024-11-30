@@ -49,7 +49,7 @@
 }
 
 .page__footer-copyright {
-  font-family: $global-font-family;
+  // font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
@@ -64,7 +64,7 @@
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
+    // font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
   }
@@ -90,13 +90,13 @@
 // footer modified
 .footer-copyright-front {
   font-size: 1.2em;
-  font-family: $global-font-family;
+  // font-family: $global-font-family;
   display: inline-block;
 }
 
 .footer-copyright-end {
   font-size: $type-size-7;
-  font-family: $global-font-family;
+  // font-family: $global-font-family;
   display: inline-block;
 }
 
